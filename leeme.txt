@@ -1,0 +1,89 @@
+- - - - -  - - - - - - - - - - - BELBOX V1.5 - Compartir archivos- - - - - - - - - - - - 
+
+	BELBOX V1.5 es un sistema para compartir archivos de proposito general, codigo abierto y gratis.
+
+					Este es una mejora de la versión anterior de Belbox
+
+
+######################## BELBOX V1.5 ###########################
+
+Descripcion:
+BELBOX V1.5 es un sistema para compartir archivos en el que puedes rellenar tu perfil, subir cualquier tipo de archivo y sobre todo crear carpetas, buscar amigos, concedir permisos a los archivos/carpetas a tus amigos/familiares/compañeros, comentar las publicaciones, recibir notificaciones y mucho mas.
+
+
+
+
+- - - - - - - - - - - - MODULOS - - - - - - - - - - - - 
+Defino a grandes rasgos los modulos generales del sistema.
+
+1). Usuarios: Se pueden registrar para acceder a sus cuentas y asi empezar la aventura con belbox.
+
+2). Subir archivos: Cada usuario puede subir lo que quiera y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
+
+3). Crear carpetas: Cada usuario puede crear carpetas y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
+
+4). Perfiles: Los usuarios pueden rellenar su perfil.
+
+5).Comentarios: Los usuarios pueden escribir comentarios a los archivos y/o imagenes de sus amigos.
+
+6).Notificaciones: recibe notificaciones cuando tus amigos descarguen o comentan tus archivos y/o carpetas.
+
+- - - - - - - - - - -  - MEJORAS! - - - - - - - - - - - - - - - - 
+1). Actualizar la imagen de perfil con ajax.
+
+2). Actualizar los datos personales.
+
+3). Dashboard con una elegancia de ver cuantas descargas eh realizado, cuantos archivos tengo y mucho más!.
+
+4). Seguridad en la subida de archivos.
+
+5). Mostrar alertas con cada acción que se realize.
+
+6). Comentar los archivos de una forma elegante.
+
+7). Colores cambiados a ser mas elegante a los usuarios.
+
+8). Un contador de descargas.
+
+9). Mostrar icono dependiendo del tipo de archivo, si es pdf se muestra un icono de PDF.
+
+10). Buscar archivos de una forma inmediata.
+
+11). Mostrar archivos por cantidad que desee el usuario.
+
+12). Paginación por toda la pagina.
+
+13). copiar enlace, se puede copear el enlace del archivo.
+
+14). FILE.PHP mostrar una imagen si el archivo es imagen en caso contrario se muestra el nombre.
+
+15). Agregar archivos dentro de carpetas.
+
+16). Registro de una forma elegante, con ajax.
+
+17). Algo más?, pedid y se os dara by production abisoft.
+
+
+	Si quieres mejoras sobre este sistema no dudes en ponerte en contacto conmigo (waptoing7@gmail.com).
+	EL sistema es de codigo abierto, puede ser utilizado para empresas o uso personal.
+
+
+	Apoyame!
+	Hay muchas formas en las que me puedes apoyar para seguir creando contenido, proyectos y actualizaciones a los sistemas
+
+
+	COMENTARIOS
+	Te invito a que dejes un comentario describiendo que tal te pareció el sistema de BELBOX V1.5 con PHP, te lo agradeceré.
+
+
+
+	INSTALACIÓN Y SOPORTE TÉCNICO
+	El sistema de BELBOX V1.5 es gratuito y puedes usarlo libremente para uso personal y/o comercial, pero no se brinda soporte gratuito para la instalación del sistema ni Ayuda con errores y problemas reportados. 
+
+	Si deseas contratar el servicio de soporte técnico para el sistema de 
+	BELBOX V1.5 debes enviar un E-mail a: waptoing7@gmail.com, con el asunto "Soporte BELBOX", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
+
+
+
+An production by Abisoft
+https://github.com/amnersaucedososa
